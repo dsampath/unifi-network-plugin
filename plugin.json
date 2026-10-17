@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "unifi-network-reader",
+  "version": "0.1.0",
+  "description": "Read-only UniFi Network client discovery through the official Integration API.",
+  "author": {"name": "dsampath"},
+  "repository": "https://github.com/dsampath/unifi-network-plugin",
+  "license": "MIT",
+  "keywords": ["unifi", "network", "device-discovery", "mcp"]
+}
